@@ -1,0 +1,159 @@
+﻿<html>
+<head>
+<title>Sabbir fahim</title>
+<style>
+body{background-image:url(img/cover2.jpg);background-repeat:no-repeat;background-size:cover;background-attachment:fixed;
+}
+*{margin:0;padding:0}
+ul{list-style:none;margin:0;padding:0;width:20%;height:100%;background:#14fd91;border:1px solid black;position:fixed;}
+a{text-decoration:none;display:block;padding:10px 12px}
+li a{text-align:center;}
+a.active{color:white;background-color:green}
+li a:hover:not(.active){
+color:blue;background-color:black;transform:scale(1);transition:all 1s;padding:20px 10px}
+h1::first-letter{color:red;}
+b{color:red;font-size:50px}
+img{border:2px solid hotpink}
+table,th,td{border:1px solid black;border-collapse:collapse;text-align:center;padding:10px 10px;background-color:blue;font-weight:bold}
+table,th,td:hover{background:green;color:white}
+td:hover{transform:scale(1.1);transition:all 1s}
+a.link{background-color:#f95050;width:25%;text-align:center;font-weight:bold;transition:all 1s}
+a.link:hover{color:white;text-decoration:underline;background-color:red;}
+iframe{border:1px solid black;}
+a.link h2:hover{transform:scale(1.1)}
+ .channel h2:hover{transform:scale(1.3)} 
+#skills:hover{color:blue;transition:all 1s;transform:scale(1)}
+
+ol li:hover {font-family:red;color:red;padding:10px 20px;}
+</style>
+</head>
+<body>
+<ul>
+<li><a class="active" href=""><h2>HOME</h2></a></li>
+<li><a href="#study"><h2>STUDY</h2></a></li>
+<li><a href="#blog"><h2>BLOG</h2></a></li>
+<li><a href="#skills"><h2>SKILLS</h2></a></li>
+<li><a href="#video"><h2>VIDEO</h2></a></li>
+<li><a href="#video"><h2>VLOG</h2></a></li>
+</ul>
+<div style="margin-left:20%;padding:3px 8px;height:100%;">
+<h1 style="color:white">A Few words about me</h1>
+<h3 style="margin-top:20px;color:white"><b>I</b> am a <b style="color:white">STudent</b>. I am <i>reading</i> now Class <b  style="color:red">Alim(1st)</b>. 
+<b>I</b> always Want To learn new things.<br/>
+</h3><br/><br/><br/>
+<h3 style="color: #e8ff09;font-size:35px"><marquee direction="right"><mark>WELCOME TO MY WEBSITE</mark></marquee><br/><br/></h3>
+<br/>
+<br/>
+<div id="img">
+<img   width="320px" height="300px"  src="img/69291919_150287276165394_6319483693853310976_n.jpg"/>
+<img  width="320px" height="300px" src="img/74698883_167049691155819_6626737425051811840_n.jpg"/>
+<img  width="320px" height="300px" src="img/71487393_159202185273903_6542566223647866880_n.jpg"/>
+</div>
+<br/>
+ <div id="study">
+<h2 style="color:red;position:relative"> <br/>
+<br/><br/><mark style="margin-left:20px;left:200px;line-height:100px">
+STUDY</mark></h3>
+<br/>
+<table>
+<tr>
+<th>CLASS</th><th>SCHOOL/MADRASAH</th><th>RESULT</th><th>BOARD</th>
+</tr>
+<tr>
+<td>8</td><td>Arab shah Academy</td><td>GPA-5</td><td>Sylhet</td>
+</tr>
+
+<tr>
+<td>HIFZ</td><td>DIFFERENT</td><td>GPA-5(momtaj)</td><td>DIFFERENT</td>
+</tr>
+<tr>
+<td>10</td><td>Sylhet Ideal MADRASAH</td><td>GPA-5</td><td>MADRASAH</td>
+</tr>
+
+</table>
+</div>
+<br/><br/><br/>
+<div id="blog">
+<h1 style="color:white"><mark>SOME BLOG OF MINE</mark></h1><br/><br/>
+<img  width="60px" height="40px" src="img/images (1).jpg"/><b style="color:black;font-size:10px">VS</b> <img  width="60px" height="40px" src="img/images.jpg"/>  
+<b style="color:white"><mark> চা vs পৃথিবী</mark></b>  
+<br/><br/>
+
+<h2 style="color:white;background-color:blue">
+ কাপের মধ্যে গরম চা রাখলে, চা গরম থেকে আস্তে আস্তে ঠাণ্ডা হয়ে যায়।
+ ঠিক এই পৃথিবী ছিল মূলত উত্তপ্ত, কারন বিগ ব্যাংগের মহাবিস্ফোরণ। পৃথিবী আস্তে আস্তে উত্তপ্ত থেকে ঠাণ্ডা হতে যাচ্ছে। একদিন একবারেই ঠান্ডা হয়ে যাবে।তখন শুরু হয়ে যাবে কিয়ামত।</h2>
+<br/>
+
+<img width="60px" height="40px" src="img/images (2).jpg"/> · 
+<b style="color:white"><mark>উদ্যোগতা</mark></b>
+<h2 style="color:white;background-color:red">
+<br/>
+আজ আমাদের দেশে যারা 
+তরুন উদ্যোগতা হতে চাচ্ছেন আমরা সমালোচনা করে তাদেরকে উড়িয়ে দিই। তাদের মনোবলকে ভেঙ্গে আমরা চুরমাচুর করে দিই। সমাজকে যারা devoloped 
+করতে চায় তাদের পিছনে ধংসাত্বক সমালোচনা করে তার পথে বাধা হয়ে দাড়াই। আমাদের সমাজে যারা, সমাজকে, দেশকে পরিবর্তন করতে চায় আমরা যেন সহোযোগিতার হাত বাড়িয়ে দিই। তাদরকে আর কিছু না
+ পারেন, দুইটা ভালো কথা বলেন, দেখবেন তাদের কাজের গতিটা আগের থেকে অনেক বেড়ে যাবে।তাদের সোনার সপ্নটা পুরণ হতে যাবে আমাদের ভালো কথা এবং ভালো উপদেশের কারনে।
+<br/>
+ </h2>
+ 
+ <br/>
+<img  width="60px" height="50px" src="img/images (3).jpg"/>
+<b style="color:white"><mark>সত্যিই আমি নিজেকে অনেক বড়
+অপরাধী মনে করছি</mark></b>
+<br/><br/>
+
+<h2 style="color:hotpink;font-size:30px;background-color:#7a01ff" >
+আজ চতুর্দিকে মুসলমানরা মার খাচ্ছে, মায়ানমার, সিরিয়া ফিলিস্তিন, চীন প্রভৃতি পৃথিবীর বিভিন্ন দেশে, প্রদেশে। আজ আমি দেখি, 
+মুসলমানদের আগুনে পুড়িয়ে দেওয়া হচ্ছে, বুলেট দিয়ে মুসলিম যুবকদের বুকটা ঝাঝরা করে দিচ্ছে, আমার মা বোনকে দর্শন করা হচ্ছে,আর আমি দেখেও নিশ্চুপ। 
+আসলে এসব ঘটনা দেখে নিজেকে আর ধরে রাখতে পারিনা।কোথায় জাতিসংঘ কোথায় বিশ্বনেতারা কোথায় - - -???? আজ আমি দামি জাজিমের উপড় নিশ্চিন্তে ঘুমাচ্ছি, আর আমার নির্যাতিত ভাই- বোনেরা মৃত্যুর শিয়রে দাড়িয়ে প্রহর গুনছে কখন তাদের উপর হামলা হয়।
+আমি নিজেকে অনেক বড় অপরাধি মনে করছি,তোমাদের ভাই হয়েও যে কিছু করতে পারছি না।মনে হচ্ছে আমি তোমাদের সাথে মৃত্যুপুরীর দেশে চলে যাই।আমি আর কি করব।উহহহহহ কান্না আর কান্না।</h2>
+</div>
+<div id="video" style="border:1px solid blue;">
+<br/>
+<h1 style="color:white;text-align:center"><img width="70px" width="70px" src="img/download (1).jpg"/><mark>VIDEO & VLOG</mark><br/><br/></h1>
+
+<iframe width="460" height="315" src="https://www.youtube.com/embed/rUs6vv-jEMk" 
+frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
+ picture-in-picture" allowfullscreen></iframe>
+
+
+<iframe width="460" height="315" src="https://www.youtube.com/embed/cLKmpMSQgqg?start=16"
+ frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+<iframe width="460" height="315" src="https://www.youtube.com/embed/kB8cifzIW-0?start=16"
+ frameborder="0" allow="accelerometer;
+ autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+ <iframe width="460" height="315" src="https://www.youtube.com/embed/Qn-ZALQiYts?start=16"
+ frameborder="0" allow="accelerometer;
+ autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+ 
+ <br/>
+ <b class="channel" style="color:white">Channel link</b><br/>
+ <br/>
+<a class="link" style="color:white" href="https://m.youtube.com/channel/UC9OGkimuM4olGS8et2b72kA"><h2>CLICK ME</h2></a><br/><br/>
+</div>
+<hr/><br/><br/>
+<div id="skills">
+<h1 id="skills" style="color:white;"><img width="70px" height="40px" src="img/images (2).jpg"/><br/><br/><mark>SKILLS</mark></h1><br/>
+<h3 style="color:hotpink">Look at the Pictures<img width="40px" height="30px"src="img/download (4).jpg"</h3><br/><br/>
+<img width="325px" height="300px" src="img/private-skill-training-centres-are-worse-in-india.jpg"/>
+<img width="325px" height="300px" src="img/index.png"/>
+<img width="325px" height="300px"  src="img/images.png"/><br/><br/>
+<h3 style="color: #e8ff09;font-size:35px"><marquee direction="right"><mark>SKILL IS BEETTER THAN STRENTH</mark></marquee><br/><br/></h3>
+<h1 style="color: #0bff12;
+    background-color: #0a0a0a;   width: 365px;}">MY SOME SKILLS&ACHIVEMENT</h1>
+
+<ol style="color:red;margin-left:10px;padding:30px 20px;background-color:yellow;text-align:center">
+<mark><li>WEB DESIGHN </li>
+<li>VIDEO EDITTING </li>
+<li>PICTURE DESIGHN </li>
+<li>JAVASCRIPT AND C++ PROGRAMMING</li></mark>
+</ol><br/><br/>
+<h1 style="color:white"><mark>ACHIVEMENT</mark></h1><br/>
+<h1 style="color:white"><mark>1.QURAN HIFZ</mark></h1>
+</div>
+</div>
+
+</body>
+</html>
